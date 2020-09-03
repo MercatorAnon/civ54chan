@@ -1,0 +1,532 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <Civilizations>
+    <Row>
+      <Type>CIVILIZATION_VIDEO_GAMES</Type>
+      <Description>TXT_KEY_CIV_VIDEO_GAMES_DESC</Description>
+      <Civilopedia></Civilopedia>
+      <CivilopediaTag>TXT_KEY_CIV5_VIDEO_GAMES</CivilopediaTag>
+      <Strategy></Strategy>
+      <Playable>1</Playable>
+      <AIPlayable>1</AIPlayable>
+      <ShortDescription>TXT_KEY_CIV_VIDEO_GAMES_SHORT_DESC</ShortDescription>
+      <Adjective>TXT_KEY_CIV_VIDEO_GAMES_ADJECTIVE</Adjective>
+      <DefaultPlayerColor>PLAYERCOLOR_VIDEO_GAMES</DefaultPlayerColor>
+      <ArtDefineTag>ART_DEF_CIVILIZATION_VIDEO_GAMES</ArtDefineTag>
+      <ArtStyleType>ARTSTYLE_EUROPEAN</ArtStyleType>
+      <ArtStyleSuffix>_EURO</ArtStyleSuffix>
+      <ArtStylePrefix>EUROPEAN</ArtStylePrefix>
+      <DerivativeCiv></DerivativeCiv>
+      <PortraitIndex>0</PortraitIndex>
+      <IconAtlas>V_ICON_ATLAS</IconAtlas>
+      <AlphaIconAtlas>V_ICON_ALPHA_ATLAS</AlphaIconAtlas>
+      <MapImage>art/v/MapV.dds</MapImage>
+      <DawnOfManQuote>TXT_KEY_CIV5_DAWN_VIDEO_GAMES_TEXT</DawnOfManQuote>
+      <DawnOfManImage>art/v/DOM_Todd.dds</DawnOfManImage>
+      <DawnOfManAudio>AS2D_DOM_SPEECH_VIDEO_GAMES</DawnOfManAudio>
+      <SoundtrackTag></SoundtrackTag>
+    </Row>
+  </Civilizations>
+
+  <Civilization_BuildingClassOverrides>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIDEO_GAMES</CivilizationType>
+      <BuildingClassType>BUILDINGCLASS_BARRACKS</BuildingClassType>
+      <BuildingType>BUILDING_BASEMENT</BuildingType>
+    </Row>
+  </Civilization_BuildingClassOverrides>
+  <Civilization_CityNames>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIDEO_GAMES</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIDEO_GAMES_0</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIDEO_GAMES</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIDEO_GAMES_1</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIDEO_GAMES</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIDEO_GAMES_2</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIDEO_GAMES</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIDEO_GAMES_3</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIDEO_GAMES</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIDEO_GAMES_4</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIDEO_GAMES</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIDEO_GAMES_5</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIDEO_GAMES</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIDEO_GAMES_6</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIDEO_GAMES</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIDEO_GAMES_7</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIDEO_GAMES</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIDEO_GAMES_8</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIDEO_GAMES</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIDEO_GAMES_9</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIDEO_GAMES</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIDEO_GAMES_10</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIDEO_GAMES</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIDEO_GAMES_11</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIDEO_GAMES</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIDEO_GAMES_12</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIDEO_GAMES</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIDEO_GAMES_13</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIDEO_GAMES</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIDEO_GAMES_14</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIDEO_GAMES</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIDEO_GAMES_15</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIDEO_GAMES</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIDEO_GAMES_16</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIDEO_GAMES</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIDEO_GAMES_17</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIDEO_GAMES</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIDEO_GAMES_18</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIDEO_GAMES</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIDEO_GAMES_19</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIDEO_GAMES</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIDEO_GAMES_20</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIDEO_GAMES</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIDEO_GAMES_21</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIDEO_GAMES</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIDEO_GAMES_22</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIDEO_GAMES</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIDEO_GAMES_23</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIDEO_GAMES</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIDEO_GAMES_24</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIDEO_GAMES</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIDEO_GAMES_25</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIDEO_GAMES</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIDEO_GAMES_26</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIDEO_GAMES</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIDEO_GAMES_27</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIDEO_GAMES</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIDEO_GAMES_28</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIDEO_GAMES</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIDEO_GAMES_29</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIDEO_GAMES</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIDEO_GAMES_30</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIDEO_GAMES</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIDEO_GAMES_31</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIDEO_GAMES</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIDEO_GAMES_32</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIDEO_GAMES</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIDEO_GAMES_33</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIDEO_GAMES</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIDEO_GAMES_34</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIDEO_GAMES</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIDEO_GAMES_35</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIDEO_GAMES</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIDEO_GAMES_36</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIDEO_GAMES</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIDEO_GAMES_37</CityName>
+    </Row>
+  </Civilization_CityNames>
+  <!-- Civilization_DisableTechs -->
+  <Civilization_FreeBuildingClasses>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIDEO_GAMES</CivilizationType>
+      <BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
+    </Row>
+  </Civilization_FreeBuildingClasses>
+  <Civilization_FreeTechs>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIDEO_GAMES</CivilizationType>
+      <TechType>TECH_AGRICULTURE</TechType>
+    </Row>
+  </Civilization_FreeTechs>
+  <Civilization_FreeUnits>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIDEO_GAMES</CivilizationType>
+      <UnitClassType>UNITCLASS_SETTLER</UnitClassType>
+      <UnitAIType>UNITAI_SETTLE</UnitAIType>
+      <Count>1</Count>
+    </Row>
+  </Civilization_FreeUnits>
+  <Civilization_Leaders>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIDEO_GAMES</CivilizationType>
+      <LeaderheadType>LEADER_HOWARD</LeaderheadType>
+    </Row>
+  </Civilization_Leaders>
+  <Civilization_Religions>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIDEO_GAMES</CivilizationType>
+      <ReligionType>RELIGION_ORTHODOXY</ReligionType>
+    </Row>
+  </Civilization_Religions>
+  <Civilization_SpyNames>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIDEO_GAMES</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_VIDEO_GAMES_0</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIDEO_GAMES</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_VIDEO_GAMES_1</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIDEO_GAMES</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_VIDEO_GAMES_2</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIDEO_GAMES</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_VIDEO_GAMES_3</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIDEO_GAMES</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_VIDEO_GAMES_4</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIDEO_GAMES</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_VIDEO_GAMES_5</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIDEO_GAMES</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_VIDEO_GAMES_6</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIDEO_GAMES</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_VIDEO_GAMES_7</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIDEO_GAMES</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_VIDEO_GAMES_8</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIDEO_GAMES</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_VIDEO_GAMES_9</SpyName>
+    </Row>
+  </Civilization_SpyNames>
+  <Civilization_UnitClassOverrides>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIDEO_GAMES</CivilizationType>
+      <UnitClassType>UNITCLASS_SWORDSMAN</UnitClassType>
+      <UnitType>UNIT_NECKBEARD</UnitType>
+    </Row>
+  </Civilization_UnitClassOverrides>
+  <!-- Civilization_Start_Along_Ocean -->
+  <!-- Civilization_Start_Along_River -->
+  <Civilization_Start_Region_Priority>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIDEO_GAMES</CivilizationType>
+      <RegionType>REGION_HILLS</RegionType>
+    </Row>
+  </Civilization_Start_Region_Priority>
+  <!-- Civilization_Start_Region_Avoid -->
+  <!-- Civilization_Start_Place_First_Along_Ocean -->
+
+  <PlayerColors>
+    <Row>
+      <Type>PLAYERCOLOR_VIDEO_GAMES</Type>
+      <PrimaryColor>COLOR_PLAYER_VIDEO_GAMES_ICON</PrimaryColor>
+      <SecondaryColor>COLOR_PLAYER_VIDEO_GAMES_BACKGROUND</SecondaryColor>
+      <TextColor>COLOR_PLAYER_WHITE_TEXT</TextColor>
+    </Row>
+  </PlayerColors>
+  <Colors>
+    <Row>
+      <Type>COLOR_PLAYER_VIDEO_GAMES_ICON</Type>
+      <Red>0.0</Red>
+      <Green>0.858</Green>
+      <Blue>0.0</Blue>
+      <Alpha>1.0</Alpha>
+    </Row>
+  </Colors>
+  <Colors>
+    <Row>
+      <Type>COLOR_PLAYER_VIDEO_GAMES_BACKGROUND</Type>
+      <Red>0.4</Red>
+      <Green>0.0</Green>
+      <Blue>0.8</Blue>
+      <Alpha>1.0</Alpha>
+    </Row>
+  </Colors>
+
+  <Language_en_US>
+    <Row Tag="TXT_KEY_CIV_VIDEO_GAMES_DESC">
+      <Text>Video Games Board</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_VIDEO_GAMES_FACTOID_HEADING">
+      <Text>/v/irgin Factoid</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_VIDEO_GAMES_FACTOID_TEXT">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_VIDEO_GAMES_HEADING_1">
+      <Text>History</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_VIDEO_GAMES_TEXT_1">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_VIDEO_GAMES_TEXT_10">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_VIDEO_GAMES_TEXT_11">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_VIDEO_GAMES_TEXT_12">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_VIDEO_GAMES_TEXT_13">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_VIDEO_GAMES_TEXT_14">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_VIDEO_GAMES_TEXT_15">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_VIDEO_GAMES_TEXT_16">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_VIDEO_GAMES_TEXT_2">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_VIDEO_GAMES_TEXT_3">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_VIDEO_GAMES_TEXT_4">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_VIDEO_GAMES_TEXT_5">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_VIDEO_GAMES_TEXT_6">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_VIDEO_GAMES_TEXT_7">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_VIDEO_GAMES_TEXT_8">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_VIDEO_GAMES_TEXT_9">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_VIDEO_GAMES_TITLE">
+      <Text>Video Games</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV_VIDEO_GAMES_SHORT_DESC">
+      <Text>/v/</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV_VIDEO_GAMES_ADJECTIVE">
+      <Text>/v/irgin</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_DAWN_VIDEO_GAMES_TEXT">
+      <Text>What the fuck did you just fucking say about me, you little bitch? I'll have you know I graduated top of my class in the Navy Seals, and I've been involved in numerous secret raids on Al-Quaeda, and I have over 300 confirmed kills. I am trained in gorilla warfare and I'm the top sniper in the entire US armed forces. You are nothing to me but just another target. I will wipe you the fuck out with precision the likes of which has never been seen before on this Earth, mark my fucking words. You think you can get away with saying that shit to me over the Internet? Think again, fucker. As we speak I am contacting my secret network of spies across the USA and your IP is being traced right now so you better prepare for the storm, maggot. The storm that wipes out the pathetic little thing you call your life. You're fucking dead, kid. I can be anywhere, anytime, and I can kill you in over seven hundred ways, and that's just with my bare hands. Not only am I extensively trained in unarmed combat, but I have access to the entire arsenal of the United States Marine Corps and I will use it to its full extent to wipe your miserable ass off the face of the continent, you little shit. If only you could have known what unholy retribution your little "clever" comment was about to bring down upon you, maybe you would have held your fucking tongue. But you couldn't, you didn't, and now you're paying the price, you goddamn idiot. I will shit fury all over you and you will drown in it. You're fucking dead, kiddo.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_VIDEO_GAMES_0">
+      <Text>City 17</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_VIDEO_GAMES_1">
+      <Text>Midgar</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_VIDEO_GAMES_2">
+      <Text>Chiron</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_VIDEO_GAMES_3">
+      <Text>Timber Hearth</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_VIDEO_GAMES_4">
+      <Text>Grove Street</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_VIDEO_GAMES_5">
+      <Text>Stratholme</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_VIDEO_GAMES_6">
+      <Text>South Rook</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_VIDEO_GAMES_7">
+      <Text>Pooh's basedball field</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_VIDEO_GAMES_8">
+      <Text>The Vault</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_VIDEO_GAMES_9">
+      <Text>Shadow Moses</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_VIDEO_GAMES_10">
+      <Text>Mushroom Kingdom</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_VIDEO_GAMES_11">
+      <Text>Willamette Parkview Mall</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_VIDEO_GAMES_12">
+      <Text>Zanzibar land</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_VIDEO_GAMES_13">
+      <Text>V house</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_VIDEO_GAMES_14">
+      <Text>Novosibirsk</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_VIDEO_GAMES_15">
+      <Text>Magadan</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_VIDEO_GAMES_16">
+      <Text>Murmansk</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_VIDEO_GAMES_17">
+      <Text>Irkutsk</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_VIDEO_GAMES_18">
+      <Text>Chita</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_VIDEO_GAMES_19">
+      <Text>Samara</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_VIDEO_GAMES_20">
+      <Text>Arkhangel'sk</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_VIDEO_GAMES_21">
+      <Text>Chelyabinsk</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_VIDEO_GAMES_22">
+      <Text>Tobol'sk</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_VIDEO_GAMES_23">
+      <Text>Vologda</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_VIDEO_GAMES_24">
+      <Text>Omsk</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_VIDEO_GAMES_25">
+      <Text>Astrakhan'</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_VIDEO_GAMES_26">
+      <Text>Kursk</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_VIDEO_GAMES_27">
+      <Text>Saratov</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_VIDEO_GAMES_28">
+      <Text>Tula</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_VIDEO_GAMES_29">
+      <Text>Vladimir</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_VIDEO_GAMES_30">
+      <Text>Perm'</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_VIDEO_GAMES_31">
+      <Text>Voronezh</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_VIDEO_GAMES_32">
+      <Text>Pskov</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_VIDEO_GAMES_33">
+      <Text>Staraya Russa</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_VIDEO_GAMES_34">
+      <Text>Kostroma</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_VIDEO_GAMES_35">
+      <Text>Nizhniy Novgorod</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_VIDEO_GAMES_36">
+      <Text>Suzdal'</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_VIDEO_GAMES_37">
+      <Text>Magnitogorsk</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_VIDEO_GAMES_0">
+      <Text>Alexei</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_VIDEO_GAMES_1">
+      <Text>Solid Snake</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_VIDEO_GAMES_2">
+      <Text>Agent 47</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_VIDEO_GAMES_3">
+      <Text>Sam Fisher</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_VIDEO_GAMES_4">
+      <Text>Tatiana</Text>
+      <Gender>feminine</Gender>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_VIDEO_GAMES_5">
+      <Text>Boris</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_VIDEO_GAMES_6">
+      <Text>Doktor Seriy</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_VIDEO_GAMES_7">
+      <Text>Mikhail</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_VIDEO_GAMES_8">
+      <Text>Natacha</Text>
+      <Gender>feminine</Gender>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_VIDEO_GAMES_9">
+      <Text>Zmeya</Text>
+    </Row>
+  </Language_en_US>
+</GameData>

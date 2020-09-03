@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Mod id="0533f06d-57ca-400f-9f3a-f059983b4cdb" version="1">
+  <Properties>
+    <Name>4chan Video Games mod</Name>
+    <Teaser>4chan v board.</Teaser>
+    <Description>Larp as v.</Description>
+    <Authors>Anons of /vst/</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="0E3751A1-F840-4e1b-9706-519BF484E59D" minversion="0" maxversion="999" />
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+  </Dependencies>
+  <Blocks />
+  <Files>
+    <File md5="6E1D0C1B19FAFE57CE20FD2395C38891" import="1">art/v/iconlogo_256.dds</File>
+    <File md5="A28C2EAA7B0E1F06432EE4A162703E17" import="1">art/v/iconlogo_128.dds</File>
+    <File md5="1C98E31694A3F0D1A2F10AE106B3D104" import="1">art/v/iconlogo_80.dds</File>
+    <File md5="93ED1941F10EDAA6A74AA1625A39D405" import="1">art/v/iconlogo_64.dds</File>
+    <File md5="46B6A97745B369C2381F84DB1162187D" import="1">art/v/iconlogo_45.dds</File>
+    <File md5="1F443E97311666215BC1BA3797E81F1C" import="1">art/v/iconlogo_32.dds</File>
+    <File md5="B8CA6C65840E66082A1395C5C92BC297" import="1">art/v/iconlogoalpha_24.dds</File>
+    <File md5="3AC8A7DD996E50850E57595A3303B9B7" import="1">art/v/iconlogoalpha_32.dds</File>
+    <File md5="E6B0FF34F88362777896AB256C231B3B" import="1">art/v/iconlogoalpha_48.dds</File>
+    <File md5="F7D0E0C6896DF0ECE05314FC3B85B3B2" import="1">art/v/iconlogoalpha_64.dds</File>
+    <File md5="1AE93A7D9DA9B92FCB5F682DEEC720C7" import="1">art/v/Neckbeard_logo_256.dds</File>
+    <File md5="B6EBA9536FEEC52DFD1E5B7E7DD1827C" import="1">art/v/Neckbeard_logo_128.dds</File>
+    <File md5="971E7BF8592ED2A172A007F0EAD582C8" import="1">art/v/Neckbeard_logo_80.dds</File>
+    <File md5="210E7B251704FD9F7955D88C5C2C2035" import="1">art/v/Neckbeard_logo_64.dds</File>
+    <File md5="A04AA1CB3EEFC379DBF86850A0C7D24D" import="1">art/v/Neckbeard_logo_45.dds</File>
+    <File md5="184EA7114A663E0BE482295866572DD1" import="1">art/v/Todd_portrait_256.dds</File>
+    <File md5="D37D57467F1FB37F870C3868C16AEFEB" import="1">art/v/Todd_portrait_128.dds</File>
+    <File md5="F55FEEDFAFC856E71BED4BBA2756D7FE" import="1">art/v/Todd_portrait_64.dds</File>
+    <File md5="F55FEEDFAFC856E71BED4BBA2756D7F1" import="1">art/tech/TechnologyAtlas_256.dds</File>
+    <File md5="F55FEEDFAFC856E71BED4BBA2756D7F2" import="1">art/tech/TechnologyAtlas_214.dds</File>
+    <File md5="F55FEEDFAFC856E71BED4BBA2756D7F3" import="1">art/tech/TechnologyAtlas_128.dds</File>
+    <File md5="F55FEEDFAFC856E71BED4BBA2756D7F4" import="1">art/tech/TechnologyAtlas_80.dds</File>
+    <File md5="F55FEEDFAFC856E71BED4BBA2756D7F5" import="1">art/tech/TechnologyAtlas_64.dds</File>
+    <File md5="F55FEEDFAFC856E71BED4BBA2756D7F6" import="1">art/tech/TechnologyAtlas_45.dds</File>
+    <File md5="F9A666A7EE3541A76E099A00A37A235E" import="1">art/v/MapV.dds</File>
+    <File md5="A1F3CDEED4E4BBBEF760146A13A5BEEC" import="1">art/v/DOM_Todd.dds</File>
+    <File md5="4AB0233B1F6BB5755652DB18F2B5E14C" import="1">art/v/basement_logo_64.dds</File>
+    <File md5="D14DC077E3025B2B5BF3FC7D266E4A1D" import="1">art/v/basement_logo_45.dds</File>
+    <File md5="E4E44614B45D4655E5A34E74A3115D12" import="0">xml/techtree/CIV5Technologies.xml</File>
+    <File md5="E4E44614B45D4655E5A34E74A3115D12" import="0">xml/techtree/techtext.xml</File>
+    <File md5="E4E44614B45D4655E5A12E74A3115D12" import="0">xml/techtree/techatlas.xml</File>
+    <File md5="E4E44344B45D4655E5A34E74A3115D12" import="0">sql/techrename.sql</File>
+    <File md5="AA6D4A9B6E1B95A4C767FEDFAB8A878A" import="0">xml/v/Leader.xml</File>
+    <File md5="4624D6D4A7243A22FEF91DE65B8D438C" import="0">xml/v/Civilization.xml</File>
+    <File md5="E4E44614B7AD2155E5A91E74A3345D14" import="0">xml/v/Buildings.xml</File>
+    <File md5="F1E44614B7AD4655E5A91E74A3345D13" import="0">xml/v/Trait.xml</File>
+    <File md5="E4E44614B7AD4655E5A91E74A3115D12" import="0">xml/v/Units.xml</File>
+    <File md5="E4E44614B45D4655E5A91E74A3115D12" import="0">xml/v/atlas.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>xml/techtree/CIV5Technologies.xml</UpdateDatabase>
+      <UpdateDatabase>xml/techtree/techtext.xml</UpdateDatabase>
+      <UpdateDatabase>xml/techtree/techatlas.xml</UpdateDatabase>
+      <UpdateDatabase>sql/techrename.sql</UpdateDatabase>
+      <UpdateDatabase>xml/v/Leader.xml</UpdateDatabase>
+      <UpdateDatabase>xml/v/Civilization.xml</UpdateDatabase>
+      <UpdateDatabase>xml/v/Buildings.xml</UpdateDatabase>
+      <UpdateDatabase>xml/v/Trait.xml</UpdateDatabase>
+      <UpdateDatabase>xml/v/Units.xml</UpdateDatabase>
+      <UpdateDatabase>xml/v/atlas.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+</Mod>
