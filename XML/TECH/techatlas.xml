@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+    <IconTextureAtlases>
+    <Row>
+		<Atlas>TECH_ATLAS_4</Atlas>
+		<IconSize>256</IconSize>
+		<Filename>TechnologyAtlas_256.dds</Filename>
+		<IconsPerRow>6</IconsPerRow>
+		<IconsPerColumn>6</IconsPerColumn>
+	</Row>
+    <Row>
+        <Atlas>TECH_ATLAS_4</Atlas>
+        <IconSize>214</IconSize>
+		<Filename>TechnologyAtlas_214.dds</Filename>
+		<IconsPerRow>6</IconsPerRow>
+		<IconsPerColumn>6</IconsPerColumn>
+	</Row>
+    <Row>
+        <Atlas>TECH_ATLAS_4</Atlas>
+        <IconSize>128</IconSize>
+		<Filename>TechnologyAtlas_128.dds</Filename>
+		<IconsPerRow>6</IconsPerRow>
+		<IconsPerColumn>6</IconsPerColumn>
+	</Row>
+	<Row>
+		<Atlas>TECH_ATLAS_4</Atlas>
+		<IconSize>80</IconSize>
+		<Filename>TechnologyAtlas_80.dds</Filename>
+		<IconsPerRow>6</IconsPerRow>
+		<IconsPerColumn>6</IconsPerColumn>
+	</Row>
+	<Row>
+		<Atlas>TECH_ATLAS_4</Atlas>
+		<IconSize>64</IconSize>
+		<Filename>TechnologyAtlas_64.dds</Filename>
+		<IconsPerRow>6</IconsPerRow>
+		<IconsPerColumn>6</IconsPerColumn>
+	</Row>
+    <Row>
+		<Atlas>TECH_ATLAS_4</Atlas>
+		<IconSize>45</IconSize>
+		<Filename>TechnologyAtlas_45.dds</Filename>
+		<IconsPerRow>6</IconsPerRow>
+		<IconsPerColumn>6</IconsPerColumn>
+	</Row>
+    </IconTextureAtlases>
+</GameData>

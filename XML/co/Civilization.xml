@@ -1,0 +1,537 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <Civilizations>
+    <Row>
+      <Type>CIVILIZATION_COMICS_CARTOONS</Type>
+      <Description>TXT_KEY_CIV_COMICS_CARTOONS_DESC</Description>
+      <Civilopedia></Civilopedia>
+      <CivilopediaTag>TXT_KEY_CIV5_COMICS_CARTOONS</CivilopediaTag>
+      <Strategy></Strategy>
+      <Playable>1</Playable>
+      <AIPlayable>1</AIPlayable>
+      <ShortDescription>TXT_KEY_CIV_COMICS_CARTOONS_SHORT_DESC</ShortDescription>
+      <Adjective>TXT_KEY_CIV_COMICS_CARTOONS_ADJECTIVE</Adjective>
+      <DefaultPlayerColor>PLAYERCOLOR_COMICS_CARTOONS</DefaultPlayerColor>
+      <ArtDefineTag>ART_DEF_CIVILIZATION_COMICS_CARTOONS</ArtDefineTag>
+      <ArtStyleType>ARTSTYLE_EUROPEAN</ArtStyleType>
+      <ArtStyleSuffix>_EURO</ArtStyleSuffix>
+      <ArtStylePrefix>EUROPEAN</ArtStylePrefix>
+      <DerivativeCiv></DerivativeCiv>
+      <PortraitIndex>0</PortraitIndex>
+      <IconAtlas>CO_ICON_ATLAS</IconAtlas>
+      <AlphaIconAtlas>CO_ICON_ALPHA_ATLAS</AlphaIconAtlas>
+      <MapImage>art/co/MapCO.dds</MapImage>
+      <DawnOfManQuote>TXT_KEY_CIV5_DAWN_COMICS_CARTOONS_TEXT</DawnOfManQuote>
+      <DawnOfManImage>art/co/DOM_me.dds</DawnOfManImage>
+      <DawnOfManAudio>AS2D_DOM_SPEECH_COMICS_CARTOONS</DawnOfManAudio>
+      <SoundtrackTag></SoundtrackTag>
+    </Row>
+  </Civilizations>
+
+  <Civilization_BuildingClassOverrides>
+    <Row>
+      <CivilizationType>CIVILIZATION_COMICS_CARTOONS</CivilizationType>
+      <BuildingClassType>BUILDINGCLASS_THEATRE</BuildingClassType>
+      <BuildingType>BUILDING_ANIMATION</BuildingType>
+    </Row>
+  </Civilization_BuildingClassOverrides>
+  <Civilization_CityNames>
+    <Row>
+      <CivilizationType>CIVILIZATION_COMICS_CARTOONS</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_COMICS_CARTOONS_0</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_COMICS_CARTOONS</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_COMICS_CARTOONS_1</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_COMICS_CARTOONS</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_COMICS_CARTOONS_2</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_COMICS_CARTOONS</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_COMICS_CARTOONS_3</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_COMICS_CARTOONS</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_COMICS_CARTOONS_4</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_COMICS_CARTOONS</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_COMICS_CARTOONS_5</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_COMICS_CARTOONS</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_COMICS_CARTOONS_6</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_COMICS_CARTOONS</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_COMICS_CARTOONS_7</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_COMICS_CARTOONS</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_COMICS_CARTOONS_8</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_COMICS_CARTOONS</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_COMICS_CARTOONS_9</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_COMICS_CARTOONS</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_COMICS_CARTOONS_10</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_COMICS_CARTOONS</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_COMICS_CARTOONS_11</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_COMICS_CARTOONS</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_COMICS_CARTOONS_12</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_COMICS_CARTOONS</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_COMICS_CARTOONS_13</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_COMICS_CARTOONS</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_COMICS_CARTOONS_14</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_COMICS_CARTOONS</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_COMICS_CARTOONS_15</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_COMICS_CARTOONS</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_COMICS_CARTOONS_16</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_COMICS_CARTOONS</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_COMICS_CARTOONS_17</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_COMICS_CARTOONS</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_COMICS_CARTOONS_18</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_COMICS_CARTOONS</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_COMICS_CARTOONS_19</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_COMICS_CARTOONS</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_COMICS_CARTOONS_20</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_COMICS_CARTOONS</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_COMICS_CARTOONS_21</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_COMICS_CARTOONS</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_COMICS_CARTOONS_22</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_COMICS_CARTOONS</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_COMICS_CARTOONS_23</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_COMICS_CARTOONS</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_COMICS_CARTOONS_24</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_COMICS_CARTOONS</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_COMICS_CARTOONS_25</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_COMICS_CARTOONS</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_COMICS_CARTOONS_26</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_COMICS_CARTOONS</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_COMICS_CARTOONS_27</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_COMICS_CARTOONS</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_COMICS_CARTOONS_28</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_COMICS_CARTOONS</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_COMICS_CARTOONS_29</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_COMICS_CARTOONS</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_COMICS_CARTOONS_30</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_COMICS_CARTOONS</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_COMICS_CARTOONS_31</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_COMICS_CARTOONS</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_COMICS_CARTOONS_32</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_COMICS_CARTOONS</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_COMICS_CARTOONS_33</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_COMICS_CARTOONS</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_COMICS_CARTOONS_34</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_COMICS_CARTOONS</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_COMICS_CARTOONS_35</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_COMICS_CARTOONS</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_COMICS_CARTOONS_36</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_COMICS_CARTOONS</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_COMICS_CARTOONS_37</CityName>
+    </Row>
+  </Civilization_CityNames>
+  <!-- Civilization_DisableTechs -->
+  <Civilization_FreeBuildingClasses>
+    <Row>
+      <CivilizationType>CIVILIZATION_COMICS_CARTOONS</CivilizationType>
+      <BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
+    </Row>
+  </Civilization_FreeBuildingClasses>
+  <Civilization_FreeTechs>
+    <Row>
+      <CivilizationType>CIVILIZATION_COMICS_CARTOONS</CivilizationType>
+      <TechType>TECH_AGRICULTURE</TechType>
+    </Row>
+  </Civilization_FreeTechs>
+  <Civilization_FreeUnits>
+    <Row>
+      <CivilizationType>CIVILIZATION_COMICS_CARTOONS</CivilizationType>
+      <UnitClassType>UNITCLASS_SETTLER</UnitClassType>
+      <UnitAIType>UNITAI_SETTLE</UnitAIType>
+      <Count>1</Count>
+    </Row>
+  </Civilization_FreeUnits>
+  <Civilization_Leaders>
+    <Row>
+      <CivilizationType>CIVILIZATION_COMICS_CARTOONS</CivilizationType>
+      <LeaderheadType>LEADER_ME</LeaderheadType>
+    </Row>
+  </Civilization_Leaders>
+  <Civilization_Religions>
+    <Row>
+      <CivilizationType>CIVILIZATION_COMICS_CARTOONS</CivilizationType>
+      <ReligionType>RELIGION_ORTHODOXY</ReligionType>
+    </Row>
+  </Civilization_Religions>
+  <Civilization_SpyNames>
+    <Row>
+      <CivilizationType>CIVILIZATION_COMICS_CARTOONS</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_COMICS_CARTOONS_0</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_COMICS_CARTOONS</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_COMICS_CARTOONS_1</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_COMICS_CARTOONS</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_COMICS_CARTOONS_2</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_COMICS_CARTOONS</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_COMICS_CARTOONS_3</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_COMICS_CARTOONS</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_COMICS_CARTOONS_4</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_COMICS_CARTOONS</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_COMICS_CARTOONS_5</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_COMICS_CARTOONS</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_COMICS_CARTOONS_6</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_COMICS_CARTOONS</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_COMICS_CARTOONS_7</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_COMICS_CARTOONS</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_COMICS_CARTOONS_8</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_COMICS_CARTOONS</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_COMICS_CARTOONS_9</SpyName>
+    </Row>
+  </Civilization_SpyNames>
+  <Civilization_UnitClassOverrides>
+    <Row>
+      <CivilizationType>CIVILIZATION_COMICS_CARTOONS</CivilizationType>
+      <UnitClassType>UNITCLASS_INFANTRY</UnitClassType>
+      <UnitType>UNIT_COBRA</UnitType>
+    </Row>
+  </Civilization_UnitClassOverrides>
+  <!-- Civilization_Start_Along_Ocean -->
+  <!-- Civilization_Start_Along_River -->
+  <Civilization_Start_Region_Priority>
+    <Row>
+      <CivilizationType>CIVILIZATION_COMICS_CARTOONS</CivilizationType>
+      <RegionType>REGION_HILLS</RegionType>
+    </Row>
+  </Civilization_Start_Region_Priority>
+  <!-- Civilization_Start_Region_Avoid -->
+  <!-- Civilization_Start_Place_First_Along_Ocean -->
+
+  <PlayerColors>
+    <Row>
+      <Type>PLAYERCOLOR_COMICS_CARTOONS</Type>
+      <PrimaryColor>COLOR_PLAYER_COMICS_CARTOONS_ICON</PrimaryColor>
+      <SecondaryColor>COLOR_PLAYER_COMICS_CARTOONS_BACKGROUND</SecondaryColor>
+      <TextColor>COLOR_PLAYER_WHITE_TEXT</TextColor>
+    </Row>
+  </PlayerColors>
+  <Colors>
+    <Row>
+      <Type>COLOR_PLAYER_COMICS_CARTOONS_ICON</Type>
+      <Red>1.0</Red>
+      <Green>1.0</Green>
+      <Blue>0.0</Blue>
+      <Alpha>1.0</Alpha>
+    </Row>
+  </Colors>
+  <Colors>
+    <Row>
+      <Type>COLOR_PLAYER_COMICS_CARTOONS_BACKGROUND</Type>
+      <Red>1.0</Red>
+      <Green>0.0</Green>
+      <Blue>0.0</Blue>
+      <Alpha>1.0</Alpha>
+    </Row>
+  </Colors>
+
+  <Language_en_US>
+    <Row Tag="TXT_KEY_CIV_COMICS_CARTOONS_DESC">
+      <Text>Comics and Cartoons Board</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_COMICS_CARTOONS_FACTOID_HEADING">
+      <Text>/co/mrade Factoid</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_COMICS_CARTOONS_FACTOID_TEXT">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_COMICS_CARTOONS_HEADING_1">
+      <Text>History</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_COMICS_CARTOONS_TEXT_1">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_COMICS_CARTOONS_TEXT_10">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_COMICS_CARTOONS_TEXT_11">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_COMICS_CARTOONS_TEXT_12">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_COMICS_CARTOONS_TEXT_13">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_COMICS_CARTOONS_TEXT_14">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_COMICS_CARTOONS_TEXT_15">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_COMICS_CARTOONS_TEXT_16">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_COMICS_CARTOONS_TEXT_2">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_COMICS_CARTOONS_TEXT_3">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_COMICS_CARTOONS_TEXT_4">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_COMICS_CARTOONS_TEXT_5">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_COMICS_CARTOONS_TEXT_6">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_COMICS_CARTOONS_TEXT_7">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_COMICS_CARTOONS_TEXT_8">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_COMICS_CARTOONS_TEXT_9">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_COMICS_CARTOONS_TITLE">
+      <Text>Comics and Cartoons</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV_COMICS_CARTOONS_SHORT_DESC">
+      <Text>/co/</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV_COMICS_CARTOONS_ADJECTIVE">
+      <Text>/co/mrade</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_DAWN_COMICS_CARTOONS_TEXT">
+      <Text>     Long ago in a distant land, I, Aku, the shape-shifting Master of Darkness, unleashed an unspeakable evil!
+
+    But a foolish samurai warrior wielding a magic sword stepped forth to oppose me.
+
+    Before the final blow was struck, I tore open a portal in time, and flung him into the future, where my evil is law!
+
+    Now the fool seeks to return to the past, and undo the future that is Aku! </Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_COMICS_CARTOONS_0">
+      <Text>CN city</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_COMICS_CARTOONS_1">
+      <Text>Duckburg</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_COMICS_CARTOONS_2">
+      <Text>Gotham</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_COMICS_CARTOONS_3">
+      <Text>Bikini Bottom</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_COMICS_CARTOONS_4">
+      <Text>Townsville</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_COMICS_CARTOONS_5">
+      <Text>Peach Creek</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_COMICS_CARTOONS_6">
+      <Text>Star City</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_COMICS_CARTOONS_7">
+      <Text>Megacity-One</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_COMICS_CARTOONS_8">
+      <Text>Madripoor</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_COMICS_CARTOONS_9">
+      <Text>South Park</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_COMICS_CARTOONS_10">
+      <Text>CWCVille</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_COMICS_CARTOONS_11">
+      <Text>THE City</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_COMICS_CARTOONS_12">
+      <Text>Beach City</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_COMICS_CARTOONS_13">
+      <Text>Eltingville</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_COMICS_CARTOONS_14">
+      <Text>Tri-State Area</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_COMICS_CARTOONS_15">
+      <Text>Dimmsdale</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_COMICS_CARTOONS_16">
+      <Text>Quahog</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_COMICS_CARTOONS_17">
+      <Text>Gravity Falls</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_COMICS_CARTOONS_18">
+      <Text>Springfield</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_COMICS_CARTOONS_19">
+      <Text>The Smurf Village</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_COMICS_CARTOONS_20">
+      <Text>Danville</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_COMICS_CARTOONS_21">
+      <Text>Echo Creek</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_COMICS_CARTOONS_22">
+      <Text>Paradox Space</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_COMICS_CARTOONS_23">
+      <Text>Candy Kingdom</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_COMICS_CARTOONS_24">
+      <Text>Land of Ooo</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_COMICS_CARTOONS_25">
+      <Text>Astrakhan'</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_COMICS_CARTOONS_26">
+      <Text>Kursk</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_COMICS_CARTOONS_27">
+      <Text>Saratov</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_COMICS_CARTOONS_28">
+      <Text>Tula</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_COMICS_CARTOONS_29">
+      <Text>Vladimir</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_COMICS_CARTOONS_30">
+      <Text>Perm'</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_COMICS_CARTOONS_31">
+      <Text>Voronezh</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_COMICS_CARTOONS_32">
+      <Text>Pskov</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_COMICS_CARTOONS_33">
+      <Text>Staraya Russa</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_COMICS_CARTOONS_34">
+      <Text>Kostroma</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_COMICS_CARTOONS_35">
+      <Text>Nizhniy Novgorod</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_COMICS_CARTOONS_36">
+      <Text>Suzdal'</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_COMICS_CARTOONS_37">
+      <Text>Magnitogorsk</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_COMICS_CARTOONS_0">
+      <Text>Alexei</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_COMICS_CARTOONS_1">
+      <Text>Perry The Platypus</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_COMICS_CARTOONS_2">
+      <Text>Secret Squirrel</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_COMICS_CARTOONS_3">
+      <Text>White Spy</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_COMICS_CARTOONS_4">
+      <Text>Black Spy</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_COMICS_CARTOONS_5">
+      <Text>Boris</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_COMICS_CARTOONS_6">
+      <Text>Doktor Seriy</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_COMICS_CARTOONS_7">
+      <Text>Mikhail</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_COMICS_CARTOONS_8">
+      <Text>Natacha</Text>
+      <Gender>feminine</Gender>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_COMICS_CARTOONS_9">
+      <Text>Zmeya</Text>
+    </Row>
+  </Language_en_US>
+</GameData>
