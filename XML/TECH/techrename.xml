@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+    <Technologies>
+    <Update>
+        <Where Description = "TXT_KEY_TECH_AGRICULTURE_TITLE"/>
+        <Set Description = "Shitposting"/>
+    </Update>
+    <Update>
+        <Where Type = "TECH_AGRICULTURE"/>
+        <Set PortraitIndex = "0"/>
+    </Update>
+    <Update>
+        <Where Quote = "TXT_KEY_TECH_AGRICULTURE_QUOTE"/>
+        <Set Quote = "[NEWLINE][TAB][TAB] 'Look mom! I posted it again!'[NEWLINE][TAB][TAB]  - A faggot[NEWLINE][TAB]"/>
+    </Update>
+    <Update>
+        <Where Type = "TECH_AGRICULTURE"/>
+        <Set IconAtlas = "TECH_ATLAS_4"/>
+    </Update>
+
+    <Update>
+        <Where Description = "TXT_KEY_TECH_ANIMAL_HUSBANDRY_TITLE"/>
+        <Set Description = "Furries"/>
+    </Update>
+    <Update>
+        <Where Type = "TECH_ANIMAL_HUSBANDRY"/>
+        <Set PortraitIndex = "12"/>
+    </Update>
+    <Update>
+        <Where Quote = "TXT_KEY_TECH_ANIMAL_HUSBANDRY_QUOTE"/>
+        <Set Quote = "[NEWLINE][TAB][TAB] 'Die barneyfag'[NEWLINE][TAB][TAB]  - Anon on /v/[NEWLINE][TAB]"/>
+    </Update>
+    <Update>
+        <Where Type = "TECH_ANIMAL_HUSBANDRY"/>
+        <Set IconAtlas = "TECH_ATLAS_4"/>
+    </Update>
+
+    <Update>
+        <Where Description = "TXT_KEY_TECH_ARCHERY_TITLE"/>
+        <Set Description = "Aimbots"/>
+    </Update>
+    <Update>
+        <Where Type = "TECH_ARCHERY"/>
+        <Set PortraitIndex = "1"/>
+    </Update>
+    <Update>
+        <Where Quote = "TXT_KEY_TECH_ARCHERY_QUOTE"/>
+        <Set Quote = "[NEWLINE][TAB][TAB] 'IAMTHELAWIAMTHELAWIAMTHELAW'[NEWLINE][TAB][TAB]  - Judge Dredd raping a kid[NEWLINE][TAB]"/>
+    </Update>
+    <Update>
+        <Where Type = "TECH_ARCHERY"/>
+        <Set IconAtlas = "TECH_ATLAS_4"/>
+    </Update>
+    
+    <Update>
+        <Where Description = "TXT_KEY_TECH_MINING_TITLE"/>
+        <Set Description = "Minecraft"/>
+    </Update>
+    <Update>
+        <Where Type = "TECH_MINING"/>
+        <Set PortraitIndex = "2" IconAtlas = "TECH_ATLAS_4"/>
+    </Update>
+    <Update>
+        <Where Quote = "TXT_KEY_TECH_MINING_QUOTE"/>
+        <Set Quote = "[NEWLINE][TAB][TAB] 'Comfy Minecraft thread'[NEWLINE][TAB][TAB]  - Archived 0/0/1[NEWLINE][TAB]"/>
+    </Update>
+    
+    <Update>
+        <Where Description = "TXT_KEY_TECH_SAILING_TITLE"/>
+        <Set Description = "Phishing"/>
+    </Update>
+    <Update>
+        <Where Type = "TECH_SAILING"/>
+        <Set PortraitIndex = "14" IconAtlas = "TECH_ATLAS_4"/>
+    </Update>
+    <Update>
+        <Where Quote = "TXT_KEY_TECH_SAILING_QUOTE"/>
+        <Set Quote = "[NEWLINE][TAB][TAB] 'I am Prince Nwagramnabne Malahaktae and i need help.'[NEWLINE][TAB][TAB]  - Ethiopian hacker[NEWLINE][TAB]"/>
+    </Update>
+    
+    <Update>
+        <Where Description = "TXT_KEY_TECH_WRITING_TITLE"/>
+        <Set Description = "MS Paint"/>
+    </Update>
+    <Update>
+        <Where Type = "TECH_WRITING"/>
+        <Set PortraitIndex = "8" IconAtlas = "TECH_ATLAS_4"/>
+    </Update>
+    <Update>
+        <Where Quote = "TXT_KEY_TECH_WRITING_QUOTE"/>
+        <Set Quote = "[NEWLINE][TAB][TAB] 'And M00t said 'ROW ROW FIGHT THE POWER''[NEWLINE][TAB][TAB]  - /b/tard[NEWLINE][TAB]"/>
+    </Update>
+    
+    <Update>
+        <Where Description = "TXT_KEY_TECH_THEOLOGY_TITLE"/>
+        <Set Description = "Atheism"/>
+    </Update>
+    <Update>
+        <Where Type = "TECH_THEOLOGY"/>
+        <Set PortraitIndex = "3" IconAtlas = "TECH_ATLAS_4"/>
+    </Update>
+    <Update>
+        <Where Quote = "TXT_KEY_TECH_THEOLOGY_QUOTE"/>
+        <Set Quote = "[NEWLINE][TAB][TAB] 'I don't believe in some big daddy in the sky'[NEWLINE][TAB][TAB]  - anon discussing nintendo games[NEWLINE][TAB]"/>
+    </Update>
+    
+    <Update>
+        <Where Description = "TXT_KEY_TECH_INTERNET_TITLE"/>
+        <Set Description = "4chan"/>
+    </Update>
+    <Update>
+        <Where Type = "TECH_INTERNET"/>
+        <Set PortraitIndex = "4" IconAtlas = "TECH_ATLAS_4"/>
+    </Update>
+    <Update>
+        <Where Quote = "TXT_KEY_TECH_INTERNET_QUOTE"/>
+        <Set Quote = "[NEWLINE][TAB][TAB] 'Only a fool would take anything here as a fact'[NEWLINE][TAB][TAB]  - M00t[NEWLINE][TAB]"/>
+    </Update>
+    
+    <Update>
+        <Where Description = "TXT_KEY_TECH_PLASTICS_TITLE"/>
+        <Set Description = "Capitalism"/>
+    </Update>
+    <Update>
+        <Where Type = "TECH_PLASTIC"/>
+        <Set PortraitIndex = "5" IconAtlas = "TECH_ATLAS_4"/>
+    </Update>
+    <Update>
+        <Where Quote = "TXT_KEY_TECH_PLASTICS_QUOTE"/>
+        <Set Quote = "[NEWLINE][TAB][TAB] 'Come on. Don't you guys have phones?'[NEWLINE][TAB][TAB]  - Diablo's newest game announcement[NEWLINE][TAB]"/>
+    </Update>
+    
+    <Update>
+        <Where Description = "TXT_KEY_TECH_MATHEMATICS_TITLE"/>
+        <Set Description = "High School Algebra"/>
+    </Update>
+    <Update>
+        <Where Type = "TECH_MATHEMATICS"/>
+        <Set PortraitIndex = "6" IconAtlas = "TECH_ATLAS_4"/>
+    </Update>
+    <Update>
+        <Where Quote = "TXT_KEY_TECH_MATHEMATICS_QUOTE"/>
+        <Set Quote = "[NEWLINE][TAB][TAB] '2 + 2 = 5'[NEWLINE][TAB][TAB]  [NEWLINE][TAB]"/>
+    </Update>
+    
+    <Update>
+        <Where Description = "TXT_KEY_TECH_ECOLOGY_TITLE"/>
+        <Set Description = "Cats"/>
+    </Update>
+    <Update>
+        <Where Type = "TECH_ECOLOGY"/>
+        <Set PortraitIndex = "7" IconAtlas = "TECH_ATLAS_4"/>
+    </Update>
+    <Update>
+        <Where Quote = "TXT_KEY_TECH_ECOLOGY_QUOTE"/>
+        <Set Quote = "[NEWLINE][TAB][TAB] 'Even the Egyptians worshipped them!'[NEWLINE][TAB][TAB]  - The internet[NEWLINE][TAB]"/>
+    </Update>
+    
+    <Update>
+        <Where Description = "TXT_KEY_TECH_SATELLITES_TITLE"/>
+        <Set Description = "Lurking"/>
+    </Update>
+    <Update>
+        <Where Type = "TECH_SATELLITES"/>
+        <Set PortraitIndex = "9" IconAtlas = "TECH_ATLAS_4"/>
+    </Update>
+    <Update>
+        <Where Quote = "TXT_KEY_TECH_SATELLITES_QUOTE"/>
+        <Set Quote = "[NEWLINE][TAB][TAB] 'lurk moar'[NEWLINE][TAB][TAB]  - Rule 33[NEWLINE][TAB]"/>
+    </Update>
+
+    <Update>
+        <Where Description = "TXT_KEY_TECH_GLOBALIZATION_TITLE"/>
+        <Set Description = "Discord"/>
+    </Update>
+    <Update>
+        <Where Type = "TECH_GLOBALIZATION"/>
+        <Set PortraitIndex = "10" IconAtlas = "TECH_ATLAS_4"/>
+    </Update>
+    <Update>
+        <Where Quote = "TXT_KEY_TECH_GLOBALIZATION_QUOTE"/>
+        <Set Quote = "[NEWLINE][TAB][TAB] 'You will never find a more insane hive of trannies and gays.'[NEWLINE][TAB][TAB]  - anon[NEWLINE][TAB]"/>
+    </Update>
+    
+    <Update>
+        <Where Description = "TXT_KEY_TECH_FLIGHT_TITLE"/>
+        <Set Description = "Paper Planes"/>
+    </Update>
+    <Update>
+        <Where Type = "TECH_FLIGHT"/>
+        <Set PortraitIndex = "11" IconAtlas = "TECH_ATLAS_4"/>
+    </Update>
+    <Update>
+        <Where Quote = "TXT_KEY_TECH_FLIGHT_QUOTE"/>
+        <Set Quote = "[NEWLINE][TAB][TAB] 'FLOOOOOOOOSH'[NEWLINE][TAB][TAB]  - plane[NEWLINE][TAB]"/>
+    </Update>
+    
+    <Update>
+        <Where Description = "TXT_KEY_TECH_CURRENCY_TITLE"/>
+        <Set Description = "Jew Gold"/>
+    </Update>
+    <Update>
+        <Where Type = "TECH_CURRENCY"/>
+        <Set PortraitIndex = "13" IconAtlas = "TECH_ATLAS_4"/>
+    </Update>
+    <Update>
+        <Where Quote = "TXT_KEY_TECH_CURRENCY_QUOTE"/>
+        <Set Quote = "[NEWLINE][TAB][TAB] 'And don't forget to buy all the 45 DLCs!'[NEWLINE][TAB][TAB]  - paradox employee[NEWLINE][TAB]"/>
+    </Update>
+
+    <Update>
+        <Where Description = "TXT_KEY_TECH_HORSEBACK_RIDING_TITLE"/>
+        <Set Description = "Bronies"/>
+    </Update>
+    <Update>
+        <Where Type = "TECH_HORSEBACK_RIDING"/>
+        <Set PortraitIndex = "15" IconAtlas = "TECH_ATLAS_4"/>
+    </Update>
+    <Update>
+        <Where Quote = "TXT_KEY_TECH_HORSEBACK_RIDING_QUOTE"/>
+        <Set Quote = "[NEWLINE][TAB][TAB] 'Ponybro more like BRONIE amirite'[NEWLINE][TAB][TAB]  - patient zero[NEWLINE][TAB]"/>
+    </Update>
+    
+    <Update>
+        <Where Description = "TXT_KEY_TECH_MASONRY_TITLE"/>
+        <Set Description = "Illuminati"/>
+    </Update>
+    <Update>
+        <Where Type = "TECH_MASONRY"/>
+        <Set PortraitIndex = "16" IconAtlas = "TECH_ATLAS_4"/>
+    </Update>
+    <Update>
+        <Where Quote = "TXT_KEY_TECH_MASONRY_QUOTE"/>
+        <Set Quote = "[NEWLINE][TAB][TAB] 'ILLUMINATEH CONFERMED'[NEWLINE][TAB][TAB]  - everyone at one point in life[NEWLINE][TAB]"/>
+    </Update>
+    
+    <Update>
+        <Where Description = "TXT_KEY_TECH_EDUCATION_TITLE"/>
+        <Set Description = "Reading the sticky"/>
+    </Update>
+    <Update>
+        <Where Type = "TECH_EDUCATION"/>
+        <Set PortraitIndex = "17" IconAtlas = "TECH_ATLAS_4"/>
+    </Update>
+    <Update>
+        <Where Quote = "TXT_KEY_TECH_EDUCATION_QUOTE"/>
+        <Set Quote = "[NEWLINE][TAB][TAB] 'READ THE STICKY!'[NEWLINE][TAB][TAB]  - mod[NEWLINE][TAB]"/>
+    </Update>
+    
+    <Update>
+        <Where Description = "TXT_KEY_TECH_TRAPPING_TITLE"/>
+        <Set Description = "Baiting"/>
+    </Update>
+    <Update>
+        <Where Type = "TECH_TRAPPING"/>
+        <Set PortraitIndex = "18" IconAtlas = "TECH_ATLAS_4"/>
+    </Update>
+    <Update>
+        <Where Quote = "TXT_KEY_TECH_TRAPPING_QUOTE"/>
+        <Set Quote = "[NEWLINE][TAB][TAB] 'There is a thin line between bait and a stupid opinion.'[NEWLINE][TAB][TAB]  - anon[NEWLINE][TAB]"/>
+    </Update>
+    
+    <Update>
+        <Where Description = "TXT_KEY_TECH_PHYSICS_TITLE"/>
+        <Set Description = "Triforce"/>
+    </Update>
+    <Update>
+        <Where Type = "TECH_PHYSICS"/>
+        <Set PortraitIndex = "19" IconAtlas = "TECH_ATLAS_4"/>
+    </Update>
+    <Update>
+        <Where Quote = "TXT_KEY_TECH_PHYSICS_QUOTE"/>
+        <Set Quote = "[NEWLINE][TAB][TAB] 'newfags can't triforce.'[NEWLINE][TAB][TAB]  - oldfag[NEWLINE][TAB]"/>
+    </Update>
+    
+    <Update>
+        <Where Description = "TXT_KEY_TECH_MOBILE_TACTICS_TITLE"/>
+        <Set Description = "X-Com"/>
+    </Update>
+    <Update>
+        <Where Type = "TECH_MOBILE_TACTICS"/>
+        <Set PortraitIndex = "20" IconAtlas = "TECH_ATLAS_4"/>
+    </Update>
+    <Update>
+        <Where Quote = "TXT_KEY_TECH_MOBILE_TACTICS_QUOTE"/>
+        <Set Quote = "[NEWLINE][TAB][TAB] 'Ayy lmao.'[NEWLINE][TAB][TAB]  [NEWLINE][TAB]"/>
+    </Update>
+    
+    <Update>
+        <Where Description = "TXT_KEY_TECH_CHEMISTRY_TITLE"/>
+        <Set Description = "Chemistry cat"/>
+    </Update>
+    <Update>
+        <Where Type = "TECH_CHEMISTRY"/>
+        <Set PortraitIndex = "21" IconAtlas = "TECH_ATLAS_4"/>
+    </Update>
+    <Update>
+        <Where Quote = "TXT_KEY_TECH_CHEMISTRY_QUOTE"/>
+        <Set Quote = "[NEWLINE][TAB][TAB] 'I'd tell you a good chemistry joke. But all the good ones argon.'[NEWLINE][TAB][TAB]  - chemistry cat[NEWLINE][TAB]"/>
+    </Update>
+    </Technologies>
+</GameData>
